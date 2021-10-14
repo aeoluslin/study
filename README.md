@@ -23,7 +23,7 @@
     vscode：结合markdown插件，采用文件夹树状结构。  
     typora：预览效果和转换格式  
     gitee：网络存储，github还不熟练   
-    gitee和github同步
+    gitee和github同步  
     坚果云：文件同步（多电脑）  
 
 ---
